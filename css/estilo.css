@@ -72,6 +72,12 @@
     margin-bottom: 20px;
 }
 
+.texto:hover {
+    color: var(--colorTitulos);
+    text-decoration: none;
+    font-weight: bold;
+}
+
 .bdos{
     background-color: var(--colordefecto);
     color: #000000;
